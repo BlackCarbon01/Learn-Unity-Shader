@@ -9,6 +9,7 @@
 /Learn-Unity-Shader/[Bb]uilds/
 /Learn-Unity-Shader/[Ll]ogs/
 /Learn-Unity-Shader/[Mm]emoryCaptures/
+/Learn-Unity-Shader/.idea/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/Learn-Unity-Shader/[Aa]ssets/**/*.meta
